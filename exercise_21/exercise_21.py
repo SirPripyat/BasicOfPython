@@ -11,8 +11,7 @@ def calculate_average(list_of_numbers, list_of_numbers_2):
     'C': total_average
   }
   
-
 def average(numbers):
   return sum(numbers) / len(numbers)
 
-print(calculate_average([10, 10, 10], [10, 10, 10])) 
+print(calculate_average([10, 10, 10], [10, 10, 10]))
